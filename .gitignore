@@ -1,0 +1,4 @@
+server/.env
+/node_modules
+/client/biser-art/build
+/server/node_modules
